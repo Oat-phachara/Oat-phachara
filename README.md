@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://www.instagram.com/oat.bun/">IG :)<a>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Dancing%20Rainbow%20🌈&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <!--
 **Oat-phachara/Oat-phachara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
